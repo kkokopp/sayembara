@@ -3,11 +3,14 @@ Web aplication based on laravel using bootstrap
 
 Memiliki feature dasar dari Laravel 9.0 berupa
 
-Middleware
-CRUD
-Rest API
-Upload File
-Register & Login
+<ul>
+    <li>Middleware</li>
+    <li>CRUD</li>
+    <li>Rest API</li>
+    <li>Upload File</li>
+    <li>Register & Login</li>
+</ul>
+
 Sayembara merupakan website untuk mencari berbagai workshop dan course terkait dengan programming, teknologi, dan lainya. Website ini memiliki features yang berbeda bagi setiap user. User sendiri terdiri dari user biasa atau disebut student, kemudian ada teacher atau tutor yang merupakan pemilik atau pembuat dari workshop, kemudian ada super user yang miliki kendali untuk merubah kategori yang tersedia. Student mampu menambah favorit suatu workhop. Tutor atau teacher mampu membuat merubah dan menghapus workhop yang dibuat.
 
 <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
